@@ -5,3 +5,7 @@
 4. run `npm start` and open `http://localhost:3000/` in your browser.
 5. enjoy!
 
+# Preview
+![react_chatroom](img/react_chatroom1.png)
+![react_chatroom](img/react_chatroom2.png)
+
